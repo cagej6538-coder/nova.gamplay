@@ -1,0 +1,82 @@
+[
+  {
+    "name": "BMW M5 Competition",
+    "price": 105000,
+    "image": "https://cdn.mos.cms.futurecdn.net/Drifb4WGUoCj2gVUo2BQnG.jpg",
+    "horsepower": "625 hp",
+    "acceleration": "0–100 km/h in 3.3s",
+    "topSpeed": "305 km/h",
+    "type": "Sedan",
+    "year": 2024
+  },
+  {
+    "name": "BMW X7 M60i",
+    "price": 121000,
+    "image": "https://i.ytimg.com/vi/zNrgNVH59Ng/maxresdefault.jpg",
+    "horsepower": "530 hp",
+    "acceleration": "0–100 km/h in 4.7s",
+    "topSpeed": "250 km/h",
+    "type": "SUV",
+    "year": 2024
+  },
+  {
+    "name": "BMW i8 Roadster",
+    "price": 147500,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRccy_KJITFMsdOJpHflhQiIl-5hEqiSU_1eg&s",
+    "horsepower": "369 hp",
+    "acceleration": "0–100 km/h in 4.4s",
+    "topSpeed": "250 km/h",
+    "type": "Coupe",
+    "year": 2020
+  },
+  {
+    "name": "BMW M4 CSL",
+    "price": 139900,
+    "image": "https://media.drive.com.au/obj/tx_q:50,rs:auto:1920:1080:1/driveau/upload/cms/uploads/yjokmgyezybpsiaznpkl",
+    "horsepower": "550 hp",
+    "acceleration": "0–100 km/h in 3.6s",
+    "topSpeed": "307 km/h",
+    "type": "Coupe",
+    "year": 2023
+  },
+  {
+    "name": "BMW X5",
+    "price": 61000,
+    "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/152681/x5-exterior-right-front-three-quarter-6.jpeg?isig=0&q=80",
+    "horsepower": "335 hp",
+    "acceleration": "0–100 km/h in 5.5s",
+    "topSpeed": "243 km/h",
+    "type": "SUV",
+    "year": 2024
+  },
+  {
+    "name": "BMW 3 Series",
+    "price": 45000,
+    "image": "https://www.topgear.com/sites/default/files/2022/09/1-BMW-3-Series.jpg",
+    "horsepower": "255 hp",
+    "acceleration": "0–100 km/h in 5.8s",
+    "topSpeed": "250 km/h",
+    "type": "Sedan",
+    "year": 2024
+  },
+  {
+    "name": "BMW i4",
+    "price": 57000,
+    "image": "https://www.bmw.com/content/dam/bmw/common/all-models/i-series/i4/onepager-new/bmw-i4-edrive-40-onepager-gallery-i4-exterior-videos-02.jpg",
+    "horsepower": "335 hp (eDrive40)",
+    "acceleration": "0–100 km/h in 5.7s",
+    "topSpeed": "190 km/h",
+    "type": "EV",
+    "year": 2024
+  },
+  {
+    "name": "BMW iX",
+    "price": 84000,
+    "image": "https://media.ed.edmunds-media.com/bmw/ix/2022/oem/2022_bmw_ix_4dr-suv_xdrive50_fq_oem_1_1600.jpg",
+    "horsepower": "516 hp (xDrive50)",
+    "acceleration": "0–100 km/h in 4.6s",
+    "topSpeed": "200 km/h",
+    "type": "EV",
+    "year": 2025
+  }
+]
