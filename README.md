@@ -1,0 +1,2 @@
+# nova.gamplay
+gaming store 
